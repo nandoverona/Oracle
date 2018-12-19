@@ -1,3 +1,0 @@
-http://blog.enmotech.com/2018/03/19/oracle-18c-26-remarkable-new-features-of-oracle-database-18c/
-https://k21academy.com/oracle-cloud/video-oracle-database-on-amazon-aws-overview/
-https://oracle-base.com/articles/misc/how-do-i-learn-to-tune-sql
